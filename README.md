@@ -2,6 +2,8 @@
 
 # Lecteur Audio :
 
+(Ouvrir avec Google Chrome, éviter Safari) 
+
 - Gestion d'une playlist : 
   - Bouton Play / Pause
   - A la fin d'une musique, la suivante est joué.
